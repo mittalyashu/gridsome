@@ -13,7 +13,7 @@
   ],
   "dependencies": {
     "gray-matter": "^4.0.1",
-    "hast-util-to-html": "^4.0.1",
+    "hast-util-to-html": "^6.0.1",
     "html-to-text": "^4.0.0",
     "is-url": "^1.2.4",
     "lodash.words": "^4.2.0",
