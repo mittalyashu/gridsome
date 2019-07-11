@@ -11,7 +11,7 @@
     "contentful"
   ],
   "dependencies": {
-    "contentful": "^6.1.1"
+    "contentful": "^7.8.1"
   },
   "publishConfig": {
     "access": "public"
